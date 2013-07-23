@@ -90,3 +90,4 @@ OpenSpending.Styles.Cofog = {
   '1500': { icon: 'icons/order-safety.svg', color: '#4799f0', bcolor: '#790586' }
   '1410': { icon: 'icons/order-safety.svg', color: '#4799f0', bcolor: '#790586' }
 };
+
