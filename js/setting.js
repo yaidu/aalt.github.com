@@ -72,21 +72,21 @@ OpenSpending.Styles.Cofog = {
   '8070': { icon: 'icons/construction.svg', color: '#4799f0', bcolor: '#4799f0' },
   '9000': { icon: 'icons/c_shyoubou.svg', color: '#4799f0', bcolor: '#D33673' },
   '9010': { icon: 'icons/c_shyoubou.svg', color: '#4799f0', bcolor: '#D33673' },
-  '1100': { icon: 'icons/education.svg', color: '#4799f0', bcolor: '#0AB971' },
+  '1100': { icon: 'icons/schools.svg', color: '#4799f0', bcolor: '#0AB971' },
   '1110': { icon: 'icons/primary.svg', color: '#4799f0', bcolor: '#0AB971' },
-  '1120': { icon: 'icons/schools.svg', color: '#4799f0', bcolor: '#0AB971' },
+  '1120': { icon: 'icons/education.svg', color: '#4799f0', bcolor: '#0AB971' },
   '1130': { icon: 'icons/secondary-upper.svg', color: '#4799f0', bcolor: '#0AB971' },
   '1140': { icon: 'icons/post-secondary.svg', color: '#4799f0', bcolor: '#0AB971' },
   '1150': { icon: 'icons/pre-school.svg', color: '#4799f0', bcolor: '#0AB971' },
   '1160': { icon: 'icons/family2.svg', color: '#4799f0', bcolor: '#0AB971' },
   '1170': { icon: 'icons/c_kenkou.svg', color: '#4799f0', bcolor: '#0AB971' },
-  '1200': { icon: 'icons/money.svg', color: '#4799f0', bcolor: '#D33673' },
-  '1210': { icon: 'icons/money.svg', color: '#4799f0', bcolor: '#D33673' },
-  '1230': { icon: 'icons/money.svg', color: '#4799f0', bcolor: '#D33673' },
-  '1300': { icon: 'icons/money.svg', color: '#4799f0', bcolor: '#D33673' },
-  '1310': { icon: 'icons/money.svg', color: '#4799f0', bcolor: '#D33673' },
-  '1400': { icon: 'icons/order-safety.svg', color: '#4799f0', bcolor: '#790586' },
-  '1410': { icon: 'icons/order-safety.svg', color: '#4799f0', bcolor: '#790586' }
+  '1200': { icon: 'icons/c_yougo.svg', color: '#4799f0', bcolor: '#D33673' },
+  '1210': { icon: 'icons/c_yougo.svg', color: '#4799f0', bcolor: '#D33673' },
+  '1230': { icon: 'icons/c_yougo.svg', color: '#4799f0', bcolor: '#D33673' },
+  '1300': { icon: 'icons/public-debt.svg', color: '#4799f0', bcolor: '#D33673' },
+  '1310': { icon: 'icons/public-debt.svg', color: '#4799f0', bcolor: '#D33673' },
+  '1400': { icon: 'icons/money.svg', color: '#4799f0', bcolor: '#790586' },
+  '1410': { icon: 'icons/money.svg', color: '#4799f0', bcolor: '#790586' }
   '1500': { icon: 'icons/order-safety.svg', color: '#4799f0', bcolor: '#790586' }
   '1410': { icon: 'icons/order-safety.svg', color: '#4799f0', bcolor: '#790586' }
 };
